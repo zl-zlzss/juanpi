@@ -58,7 +58,7 @@ const htmlHandler = () => {
         collapseBooleanAttributes: true, // 简写布尔值属性
         removeAttributeQuotes: true, // 去除属性上的双引号
         removeComments: true, // 去除注释
-        removeEmptyElements: true, // 去除空元素
+        // removeEmptyElements: true, // 去除空元素
         removeEmptyAttributes: true, // 去除空的属性
         removeScriptTypeAttributes: true, // 去除 script 标签上的 type 属性
         removeStyleLinkTypeAttributes: true, // 去除 style 标签和 link 标签上的 type 属性
