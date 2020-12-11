@@ -1,0 +1,50 @@
+@charset "UTF-8";
+body, p, ul, ol, dl, dd, h1, h2, h3, h4, h5, h6, input, button, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* a的下划线 */
+a {
+  text-decoration: none;
+}
+
+/* 列表小点清除 */
+li {
+  list-style-type: none;
+}
+
+/* 清除input和button默认带的边框和点击后的边框 */
+input, button {
+  border: 0;
+  outline: none;
+}
+
+/* 浏览器解析所有<img>的时候都会向下多解析3像素，解决方法 */
+img {
+  /* display: block; */
+  vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+i, b, strong, em {
+  font-style: normal;
+  font-weight: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0 none;
+  border: 0 none;
+}
+
+.center {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=public.css.map */

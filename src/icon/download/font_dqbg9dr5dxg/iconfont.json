@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "544424",
+      "name": "bag",
+      "font_class": "bag",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "17500204",
+      "name": "交通",
+      "font_class": "MR",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
